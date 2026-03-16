@@ -5,5 +5,5 @@
 </template>
 
 <script lang="ts" setup>
-	provide('app-name', 'Nuxt Template - Bootstrap');
+	provide('app-name', 'Twitch Resizer');
 </script>

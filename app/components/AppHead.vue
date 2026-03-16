@@ -6,6 +6,6 @@
 
 <script lang="ts" setup>
 	useHead({
-		title: inject('app-name'),
+		// title: inject('app-name'),
 	});
 </script>
